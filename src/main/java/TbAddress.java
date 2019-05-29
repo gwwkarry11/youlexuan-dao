@@ -2,7 +2,7 @@
 
 import java.io.Serializable;
 import java.util.Date;
-
+//新增
 public class TbAddress implements Serializable{
     private Long id;
 
